@@ -2,7 +2,7 @@
 
 /*...........................................colors*/
 
-.bg-color-none-title {
+.bg-color-name-title {
     background-color: #676767;
 }
 
@@ -12,12 +12,13 @@
 
 .ul-menu-color-members {
     background-color: #9b59b6;
-
-.ul-menu-color-publicise {
-    background-color: #3498db;
 }
 
-.ul-menu-color-avalibilities {
+ .ul-menu-color-album {
+     background-color: #3498db;
+}
+
+.ul-menu-color-availabilities {
     background-color: #525252;
 }
 
@@ -46,7 +47,8 @@ header {
     margin-top: 50px;
     color: #ffffff;
 }
-.sub-name {
+
+.title {
     font-family: "Roboto", sans-serif;
     font-weight: 200;
     font-size: 28px;
