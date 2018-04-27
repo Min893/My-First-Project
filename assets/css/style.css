@@ -18,7 +18,7 @@
      background-color: #3498db;
 }
 
-.ul-menu-color-availabilities {
+.ul-menu-color-contact {
     background-color: #525252;
 }
 
@@ -31,6 +31,7 @@ header {
 }
 
 .logo {
+    background:url("../images/1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
